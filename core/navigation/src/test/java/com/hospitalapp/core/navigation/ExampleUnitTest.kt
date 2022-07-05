@@ -1,4 +1,4 @@
-package com.hospitalapp.navigation
+package com.hospitalapp.core.navigation
 
 import org.junit.Test
 
