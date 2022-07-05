@@ -12,8 +12,12 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/base" />
+            <option value="$PROJECT_DIR$/core" />
             <option value="$PROJECT_DIR$/features" />
+            <option value="$PROJECT_DIR$/features/login" />
+            <option value="$PROJECT_DIR$/features/login/data" />
+            <option value="$PROJECT_DIR$/features/login/domain" />
+            <option value="$PROJECT_DIR$/features/login/presentation" />
           </set>
         </option>
       </GradleProjectSettings>

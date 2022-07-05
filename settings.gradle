@@ -15,4 +15,7 @@ dependencyResolutionManagement {
 rootProject.name = "HospitalApp"
 include ':app'
 include ':features'
-include ':base'
+include ':core'
+include ':features:login:data'
+include ':features:login:domain'
+include ':features:login:presentation'
