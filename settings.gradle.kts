@@ -10,6 +10,7 @@ rootProject.name = "HospitalApp"
 include(":app")
 
 include(":core:navigation")
+include(":core:presentation:ui")
 
 include(":features:login:data")
 include(":features:login:domain")
